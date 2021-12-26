@@ -1,0 +1,5 @@
+- Requiere node y npm instalados
+- npx create-react-app my-app
+- reemplazar carpeta src
+- ir a directorio principal del proyecto 
+- npm start
